@@ -1,0 +1,17 @@
+Here are the results of the historical revenue analysis by month for all records: 
+January: 0
+February: 0
+March: 0
+April: 1000
+May: 300
+June: 400
+July: 0
+August: 0
+September: 350
+October: 0
+November: 0
+December: 0
+
+Here is the Yearly revenue reports
+Year 2021: 1650
+Year 2022: 400

@@ -1,1 +1,2 @@
-# Vacation-Rental-Application
+# blank-starter
+# Starter repo for projects and exams.

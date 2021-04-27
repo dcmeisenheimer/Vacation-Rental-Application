@@ -1,0 +1,51 @@
+Listing ID: 4
+Rentee Name: Daniel Choi
+Rent Email: mylife@yahoo.com
+Rent Date: 4/14/2021 12:00:00 AM
+Rent Amount: $225
+Checkout Date: 4/17/2021 12:00:00 AM
+Owner Email: meisenheimer@gmail.com
+
+Listing ID: 1
+Rentee Name: Daniel Choi
+Rent Email: mylife@yahoo.com
+Rent Date: 4/25/2021 12:00:00 AM
+Rent Amount: $450
+Checkout Date: 4/29/2021 12:00:00 AM
+Owner Email: test123@gmail.com
+
+Listing ID: 6
+Rentee Name: Daniel Choi
+Rent Email: mylife@yahoo.com
+Rent Date: 6/9/2022 12:00:00 AM
+Rent Amount: $400
+Checkout Date: 6/14/2022 12:00:00 AM
+Owner Email: youngrocko@gmail.com
+
+Listing ID: 2
+Rentee Name: Naomi Yun
+Rent Email: naomiLife@gmail.com
+Rent Date: 4/26/2021 12:00:00 AM
+Rent Amount: $325
+Checkout Date: 5/1/2021 12:00:00 AM
+Owner Email: rickroll@gmail.com
+
+Listing ID: 5
+Rentee Name: Naomi Yun
+Rent Email: naomiLife@yahoo.com
+Rent Date: 9/20/2021 12:00:00 AM
+Rent Amount: $350
+Checkout Date: 9/25/2021 12:00:00 AM
+Owner Email: ilovecondos@gmail.com
+
+Listing ID: 3
+Rentee Name: Richard Ellito
+Rent Email: rEllito@hotmail.com
+Rent Date: 5/15/2021 12:00:00 AM
+Rent Amount: $300
+Checkout Date: 5/21/2021 12:00:00 AM
+Owner Email: hotrock@gmail.com
+
+Daniel Choi average amount spent is 358 and has rented 3 condos
+Naomi Yun average amount spent is 337 and has rented 2 condos
+Richard Ellito average amount spent is 300 and has rented 1 condos
